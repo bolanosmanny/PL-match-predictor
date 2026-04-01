@@ -6,7 +6,7 @@ Try it out: https://huggingface.co/spaces/bolanosmanny/pl-match-predictor
 
 ## What is this
 
-Trained on PL match data across a few seasons. Features are pretty simple - opponent, venue, kick-off hour, and day of the week. Model gets 67% precision on predicted wins. Venue and opponent ended up being the most important features.
+Trained on PL match data across a previous season. Features are pretty simple - opponent, venue, kick-off hour, and day of the week. Model gets 67% precision on predicted wins. Venue and opponent ended up being the most important features.
 
 ## What the app does
 
